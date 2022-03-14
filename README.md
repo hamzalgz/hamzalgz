@@ -4,7 +4,7 @@
  <br>
 
 <p align="center" >
-    <img width="190" src="https://i.giphy.com/media/3o7qE6GmiEj9QsrAKA/giphy.webp"/> <br>
+    <img width="190" src="https://giphy.com/embed/3YX5uFD3ksn5QGhQCQ"/> <br>
     Hi, I'm a Data Sience Student, interested in <b><font color="#763568">Deep learning and computer vision</font>.
     <br>
     <font color="#763568">looking for an end-of-studies (4 to 6 months) internship</font>
